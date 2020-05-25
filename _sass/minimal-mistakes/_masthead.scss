@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
+  position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -11,8 +11,7 @@
   animation-delay: 0.15s;
   z-index: 20;
   background: #fff;
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
+
 
   &__inner-wrap {
     @include clearfix;
