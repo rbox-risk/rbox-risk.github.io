@@ -1,10 +1,9 @@
 ---
 layout: single
+title: "Chris Wray, Founder"
 ---
 
-## Chris Wray, Founder
-
-![image-right](/assets/img/Logo_w_on_b_med.png){: .alight-left}
+![image-right](/assets/img/Logo_w_on_b_med.png){Chris: .alight-left}
 Chris has more than 16 years’ experience of working at leading investment managers and academic institutions in London and New York. This includes time with BlackRock Investment Managers (2006-2013) where he worked as a risk manager, quantitative analyst and portfolio manager, and has partnered closely with BlackRock Solutions (BRS) since its formation in Europe. Overall, Chris has accumulated 14 years' experience working with Aladdin, and business stakeholders of all levels. In this time, Chris has contributed a number of features to the platform which clients benefit from today, and gained deep knowledge of the Aladdin data model and many front-office and operational toolsets.
 
 
