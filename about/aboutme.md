@@ -4,7 +4,7 @@ author_profile: false
 excerpt: "Our experience and credentials"
 header:
   overlay_color: "#333"
-title: "Chris Wray, Founder"
+
 feature_row_about:
   - image_path: /assets/img/Logo_w_on_b_med.png
     alt: "Redbox founder"
