@@ -2,7 +2,8 @@
 layout: splash
 author_profile: false
 header:
-  overlay_color: "#333"
+  overlay_color: "#ffffff"
+  overlay_filter: rgba(235, 63, 63, 0.5)
 
 excerpt: "Our experience and credentials"
 feature_row_about:
