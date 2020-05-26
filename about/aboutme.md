@@ -6,14 +6,8 @@ header:
   overlay_filter: rgba(235, 63, 63, 0.5)
 
 excerpt: "Our experience and credentials"
-feature_row_about:
-  - image_path: /assets/img/Logo_w_on_b_med.png
-    alt: "Redbox founder"
-    title: "Chris Wray"
-    excerpt: 'Chris has more than 16 years’ experience of working at leading investment managers and academic institutions in London and New York. This includes time with BlackRock'
-    url: "https://www.linkedin.com/in/chriswrayuk/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_about" type="right" %}
+![image-right]({{ "/assets/img/Logo_w_on_b_300x300.png" | relative_url }}){: .align-right}
+
+And now we're going to shift things to the **right align**. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there --- Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
