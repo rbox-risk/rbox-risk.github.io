@@ -3,6 +3,7 @@ layout: splash
 author_profile: false
 header:
     overlay_color: #000
+    
 excerpt: "Our experience and credentials"
 title: "Chris Wray, Founder"
 ---
