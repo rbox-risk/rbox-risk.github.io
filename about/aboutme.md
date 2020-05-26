@@ -8,8 +8,6 @@ header:
 excerpt: "Our experience and credentials"
 ---
 
----
-
 ![image-right]({{ "/assets/img/Logo_w_on_b_300x300.png" | relative_url }}){: .align-right}
 
 ## Chris Wray
