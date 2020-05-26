@@ -8,9 +8,10 @@ header:
 excerpt: "Our experience and credentials"
 ---
 
-![image-right]({{ "/assets/img/Logo_w_on_b_300x300.png" | relative_url }}){: .align-right}
 
 ## Chris Wray
+
+![image-right]({{ "/assets/img/Logo_w_on_b_300x300.png" | relative_url }}){: .align-right}
 
 Chris has more than 16 years’ experience of working at leading investment managers and academic institutions in London and New York. This includes time with BlackRock Investment Managers (2006-2013) where he worked as a risk manager, quantitative analyst and portfolio manager, and has partnered closely with BlackRock Solutions (BRS) since its formation in Europe. During this time Chris contributed a number of features to the Aladdin platform which clients benefit from today, and gained deep knowledge of the Aladdin data model and many front-office and operational toolsets.
 
