@@ -20,6 +20,8 @@ He has a proven track record in helping investment management companies solve c
 
 Chris graduated from the University of Cambridge with BA & MMath in mathematics, and the University of London with MSc in financial engineering, MRes in computer science & PhD in Mathematics.
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="chriswrayuk"><a class="LI-simple-link" href='https://uk.linkedin.com/in/chriswrayuk?trk=profile-badge'>Chris W.</a></div>
 --------
 
 ## An Other
