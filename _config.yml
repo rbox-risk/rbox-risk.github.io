@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:chris@redboxrisk.com"
+      #url: "mailto:engage@redboxrisk.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,10 +121,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "engage@redboxrisk.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chris@redboxrisk.com"
-    - label: "LinkedIn"
+      url: "mailto:engage@redboxrisk.com"
+    - label: ""
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/company/redbox-analytics/" 
     - label: "LinkedIn"
