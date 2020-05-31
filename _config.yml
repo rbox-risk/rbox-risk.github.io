@@ -125,7 +125,7 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:chris@redboxrisk.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/chriswrayuk/" 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
