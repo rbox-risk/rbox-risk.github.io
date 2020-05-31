@@ -11,4 +11,4 @@ title: ""
 
 ## Getting technical
 
-Getting technical
+A frequent source of operational errors is the unintended or unforseen dependencies 
