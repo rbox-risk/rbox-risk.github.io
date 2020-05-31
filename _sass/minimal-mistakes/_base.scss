@@ -95,6 +95,11 @@ fieldset {
   widows: 3;
 }
 
+.about_head {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* abbreviations */
 
 abbr[title],
