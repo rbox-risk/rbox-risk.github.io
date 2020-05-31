@@ -13,7 +13,7 @@ title: ""
 <div class="about_head">
 <h2>Chris Wray</h2>
   <div>
-    <a href="https://www.linkedin.com/in/chriswrayuk"> <i class="fab fa-linkedin-in"></i></a>
+    <h2><a href="https://www.linkedin.com/in/chriswrayuk"> <i class="fab fa-linkedin-in"></i></a></h2>
   </div>
 </div>
 
