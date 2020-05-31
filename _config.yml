@@ -124,11 +124,11 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:chris@redboxrisk.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/chriswrayuk/" 
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
