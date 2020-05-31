@@ -24,6 +24,6 @@ For any organisation, unforeseen or unintended dependencies between business pro
 
 ## Deep knowledge
 
-![image-left]({{ "assets/img/enterprise_c.jpg" | relative_url }}){: .align-left}
+![image-right]({{ "assets/img/enterprise_c.jpg" | relative_url }}){: .align-right}
 Projects benefit greatly from analysis that draws upon specialised mathematical or statistical techniques, development using programming tools or direct experience of front-office, risk and operational roles. Redbox provides this analysis, along with a deep hand-on understanding of the Aladdin investment management platform, for all clients.
 
