@@ -4,7 +4,9 @@ author_profile: false
 header:
   overlay_color: "#ffffff"
   overlay_filter: rgba(235, 63, 63, 0.5)
-
+  actions:
+    - label: "Contact us"
+      url: "mailto:chris@redboxrisk.com"
 excerpt: "Our experience and credentials"
 title: ""
 ---
