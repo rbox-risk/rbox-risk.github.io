@@ -28,7 +28,7 @@ Often, projects benefit greatly from analysis that draws upon specialised mathem
       </p>
     </li>
     <li>
-      <p>Derivative valuation and pricing models for all asset classes including Equity/FX variance swaps, rate and credit swaptions, CDS and TRS
+      <p>Derivative valuation and pricing models for all asset classes including Equity/FX variance swaps, swaptions, CDS and TRS
       </p>
     </li>    
   </ul>
