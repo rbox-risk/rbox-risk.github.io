@@ -13,6 +13,8 @@ title: ""
 
 Wherever new systems need to interface with existing systems, a detailed understanding of business needs and contexts coupled with technical platform knowledge is crucial to achieving successful solutions. Gathering requirements and project planning are necessary, but on their own are insufficient to implement enterprise-wide investment management platforms, or satellite applications, well.
 
+Redbox uses technical insights to tackle difficult problems.
+
 ### Redbox's Aladdin Expertise
 
 <section class="info_panels" id="info_panels">
@@ -22,7 +24,7 @@ Wherever new systems need to interface with existing systems, a detailed underst
       </p>
     </li>
     <li>
-      <p>Familiar with *custom* report capabilities for exposure, real-time/on-the-fly analytics and risk analysis, in addition to the daily overnight risk and price processes
+      <p>Familiar with custom report capabilities for exposure, real-time/on-the-fly analytics and risk analysis, in addition to the daily overnight risk and price processes
       </p>
     </li>
     <li>
