@@ -18,7 +18,7 @@ Wherever new systems need to interface with existing systems, a detailed underst
 <section class="info_panels" id="info_panels">
   <ul>
     <li>
-      <p>Sensitive to portfolio management objectives and associated Aladdin tools: min-vol replication, cash flow matching/KRD-hedging, sector spread maximisation and absolute return mandates. Spanning rates, credit, equity, LDI and ESG investment processes
+      <p>Sensitive to portfolio management objectives and associated Aladdin tools. Spanning rates, credit, equity, LDI and ESG investment processes
       </p>
     </li>
     <li>
