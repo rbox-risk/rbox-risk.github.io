@@ -11,7 +11,11 @@ title: ""
 
 ## Deep Knowledge
 
-Often, projects benefit greatly from analysis that draws upon specialised mathematical or statistical techniques, development using programming tools or direct experience of front-office, risk and operational roles and professionals. Redbox provides these services, along with a deep hands-on knowledge of the Aladdin investment management platform for all clients.
+Often, projects benefit greatly from analysis that draws upon specialised mathematical or statistical techniques, development using programming tools or direct experience of front-office, risk and operational roles. 
+
+Redbox provides these services, along with a deep hands-on knowledge of the Aladdin investment management platform for all clients.
+
+### Redbox Aladdin Expertise
 
 <section class="info_panels" id="info_panels">
   <ul>
