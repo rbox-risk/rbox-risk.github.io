@@ -18,7 +18,7 @@ Wherever new systems need to interface with existing systems, a detailed underst
 <section class="info_panels" id="info_panels">
   <ul>
     <li>
-      <p>Full-spectrum portfolio management objectives: min-vol replication, KRD-hedging, sector-spread maximisation spanning rates, credit, equity and LDI 
+      <p>Full-spectrum portfolio management objectives: min-vol replication, cash flow/KRD-hedging, sector-spread maximisation spanning rates, credit, equity and LDI 
       </p>
     </li>
     <li>
