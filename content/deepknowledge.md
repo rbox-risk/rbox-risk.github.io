@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/img/knowledge_c.jpg
   overlay_filter: rgba(235, 63, 63, 0.5)
 
-excerpt: "Providing clients with specialist technical skills and deep platform knowledge...as standard"
+excerpt: "Providing clients with specialist technical skills and deep platform knowledge as standard"
 title: ""
 ---
 
