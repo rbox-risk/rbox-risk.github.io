@@ -17,11 +17,12 @@
 
 .info_panels > ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
   grid-gap: 1rem;
+  list-style-type: none
 }
 
 .info_panels > ul > li {
-  border: 1px solid #E2E2E2;
+  border: 1px solid #EB3F3F;
   border-radius: .5rem;
 }
