@@ -32,7 +32,7 @@ Redbox uses technical insights to tackle difficult problems.
       </p>
     </li>
     <li>
-      <p>Regulatory reporting and complicance within Aladdin tools: UCITS, SCR, MIFID II
+      <p>Regulatory reporting and compliance within Aladdin tools: UCITS, SCR, MIFID II
       </p>
     </li>    
   </ul>
