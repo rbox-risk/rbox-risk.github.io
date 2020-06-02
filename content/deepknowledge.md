@@ -13,7 +13,7 @@ title: ""
 
 Often, projects benefit greatly from analysis that draws upon specialised mathematical or statistical techniques, development using programming tools or direct experience of front-office, risk and operational roles and professionals. Redbox provides these services, along with a deep hands-on knowledge of the Aladdin investment management platform for all clients.
 
-<section class="info_panels" id="info_panels">
+<div class="info_panels" id="info_panels">
   <ul>
     <li>
       <p>Full operational lifecycle for derivatives and many asset classes covering set-up, payments and maturity
@@ -32,4 +32,4 @@ Often, projects benefit greatly from analysis that draws upon specialised mathem
       </p>
     </li>    
   </ul>
-</section>
+</div>
