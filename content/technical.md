@@ -11,8 +11,27 @@ title: ""
 
 ## Getting technical
 
-Wherever new systems interface with existing systems and processes, a detailed understanding of business needs and contexts coupled with technical platform knowledge is crucial to achieving successful solutions. Gathering requirements and project planning are necessary, but on their own are insufficient to implement enterprise-wide investment management platforms, or satellite applications, well.
+Wherever new systems need to interface with existing systems, a detailed understanding of business needs and contexts coupled with technical platform knowledge is crucial to achieving successful solutions. Gathering requirements and project planning are necessary, but on their own are insufficient to implement enterprise-wide investment management platforms well.
 
-For any organisation, unforeseen or unintended dependencies between business processes can be a source of operational errors. Having a detailed understanding of business activities, technical requirements, and the tools employed to deliver solutions is a significant mitigator to operational risks. Redbox ensures solutions meet clients’ needs, without introducing unnecessary complexity.
+### Redbox Aladdin Expertise
 
-Projects benefit greatly from analysis that draws upon specialised mathematical or statistical techniques, development using programming tools or direct experience of front-office, risk and operational roles. Redbox provides this analysis, along with a deep hand-on understanding of the Aladdin investment management platform, for all clients.
+<section class="info_panels" id="info_panels">
+  <ul>
+    <li>
+      <p>Full operational lifecycle for derivatives and many asset classes covering set-up, payments and maturity
+      </p>
+    </li>
+    <li>
+      <p>Analytics covering all asset classes spanning reporting, performance and real-time derivative analytics
+      </p>
+    </li>
+    <li>
+      <p>Aladdin risk models covering fixed income, equity and multi-asset (manager selection and asset allocation)
+      </p>
+    </li>
+    <li>
+      <p>Derivative valuation and pricing models for all asset classes including Equity/FX variance swaps, swaptions, CDS and TRS
+      </p>
+    </li>    
+  </ul>
+</section>

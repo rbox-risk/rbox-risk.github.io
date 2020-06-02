@@ -20,20 +20,16 @@ Redbox provides these services, along with a deep hands-on knowledge of the Alad
 <section class="info_panels" id="info_panels">
   <ul>
     <li>
-      <p>Full operational lifecycle for derivatives and many asset classes covering set-up, payments and maturity
-      </p>
+      <p>Full operational lifecycle for derivatives and many asset classes covering set-up, payments and maturity</p>
     </li>
     <li>
-      <p>Analytics covering all asset classes spanning reporting, performance and real-time derivative analytics
-      </p>
+      <p>Analytics covering all asset classes spanning reporting, performance and real-time derivative analytics</p>
     </li>
     <li>
-      <p>Aladdin risk models covering fixed income, equity and multi-asset (manager selection and asset allocation)
-      </p>
+      <p>Aladdin risk models covering fixed income, equity and multi-asset (manager selection and asset allocation)</p>
     </li>
     <li>
-      <p>Derivative valuation and pricing models for all asset classes including Equity/FX variance swaps, swaptions, CDS and TRS
-      </p>
+      <p>Derivative valuation and pricing models for all asset classes including Equity/FX variance swaps, swaptions, CDS and TRS</p>
     </li>    
   </ul>
 </section>
