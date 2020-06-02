@@ -11,7 +11,7 @@ title: ""
 
 ## Enterprise Wise
 
-For any organisation, unforeseen or unintended dependencies between business processes can be a source of operational errors. Having a thorough grasp of business activities, technical requirements, and the tools employed to deliver solutions is a significant mitigator to future operational risks.
+For any organisation, unforeseen or unintended dependencies between business processes can be a source of operational errors. Having a thorough grasp of business activities, technical requirements, and the tools employed to deliver solutions is a significant mitigator of future operational risks.
 
 Redbox ensures solutions meet clients’ needs, without introducing unnecessary complexity.
 
@@ -24,7 +24,7 @@ Redbox ensures solutions meet clients’ needs, without introducing unnecessary 
       </p>
     </li>
     <li>
-      <p>Understand the components requed to create valuable and useful reporting accross scales: enterprise and multi-desk
+      <p>Understand the components required to create valuable and useful reporting across scales: enterprise and multi-desk
       </p>
     </li>
     <li>
