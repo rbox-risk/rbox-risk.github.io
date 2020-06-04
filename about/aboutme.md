@@ -23,7 +23,7 @@ Chris has more than 16 years’ experience of working at leading investment mana
 
 He has a proven track record in helping investment management companies solve complex problems and extract value from operating platforms, such as Aladdin. Chris retains a very strong BRS network and is well-known to many senior leaders within BRS, enabling him to keep abreast of Aladdin product developments.
 
-Chris graduated from the University of Cambridge with BA & MMath in mathematics, and the University of London with MSc in financial engineering, MRes in computer science & PhD in Mathematics.
+Chris graduated from the University of Cambridge with BA & MMath in mathematics, and the University of London with MSc in financial engineering, MRes in computer science & PhD in mathematics.
 
 <!--
 --------
