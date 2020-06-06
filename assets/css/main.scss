@@ -20,13 +20,13 @@
   grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
   grid-gap: 1rem;
   list-style-type: none;
-  margin-left: 0;
   padding: 0;
 }
 
 .info_panels > ul > li {
-  border: 1px solid #ffffff;
-  border-radius: .5rem;
   text-align: center;
-  background-color: rgba(235, 63, 63, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0)
+  -webkit-box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0)
+  -moz-box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0)
 }
