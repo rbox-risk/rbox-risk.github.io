@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main Sass file needs front matter (the dashes are enough) https://cssgenerator.org/
 ---
 
 @charset "utf-8";
@@ -26,7 +26,7 @@
 .info_panels > ul > li {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5);
-  box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0)
-  -webkit-box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0)
-  -moz-box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0)
+  box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0);
+  -webkit-box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0);
+  -moz-box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0);
 }
