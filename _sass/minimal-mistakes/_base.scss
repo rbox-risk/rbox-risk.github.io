@@ -98,10 +98,9 @@ fieldset {
 .about_head {
   display: flex;
   justify-content: space-between;
-}
-
-.about_head > h2 {
-  border-bottom: none;
+  h2 {
+    border-bottom: none;
+  }
 }
 
 /* abbreviations */
