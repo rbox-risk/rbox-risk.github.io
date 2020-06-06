@@ -26,7 +26,9 @@
 .info_panels > ul > li {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5);
-  box-shadow: 9px 8px 10px -6px rgba(243, 241, 241, 0);
+  box-shadow: 9px 8px 10px -6px #ffffff;
+  -webkit-box-shadow: 9px 8px 10px -6px #ffffff;
+  -moz-box-shadow: 9px 8px 10px -6px #ffffff;
 }
 
 .info_panels > ul > li > p {
