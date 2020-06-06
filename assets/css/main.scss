@@ -11,6 +11,15 @@
     display: none;
   }
 
+.about_head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about_head > h2 {
+  border-bottom: none;
+}
+
 .info_panels {
   padding: 0;
 }
