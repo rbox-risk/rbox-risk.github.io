@@ -18,7 +18,7 @@ Redbox uses technical insights to tackle difficult problems.
 <section class="info_panels" id="info_panels">
   <ul>
     <li>
-      <p>Remediation of a full implementation: Performance, portfolio construction, security data management, risk management, derivative trading, lifecycle and pricing
+      <p>Full remediation: Performance, portfolio construction, data management, risk, derivative trading, lifecycle and pricing
       </p>
     </li>
     <li>
