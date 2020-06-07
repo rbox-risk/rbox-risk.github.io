@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: 'About Us'
 author_profile: false
 header:
   overlay_color: "#e59594"
