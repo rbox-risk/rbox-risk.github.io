@@ -28,7 +28,7 @@ Redbox uses technical insights to tackle difficult problems.
       </p>
     </li>
     <li>
-      <p>The utilisation of JavaScript, SQL, BQL within the Aladdin suite R, Python and VBA for general analysis 
+      <p>The utilisation of JavaScript, SQL, BQL within the Aladdin suite. R, Python and VBA for general analysis 
       </p>
     </li>
     <li>
