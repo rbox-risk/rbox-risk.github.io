@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "About us"
+  - title: "About Us"
     url: "/about/about"
   - title: "Projects"
     url: "/content/projects"
