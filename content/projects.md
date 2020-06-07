@@ -9,11 +9,7 @@ title: ""
 
 ## Aladdin Projects
 
-Here you'll find a selection of projects we have worked on. For further details on any of the 
-
-Redbox uses technical insights to tackle difficult problems.
-
-### Redbox's Aladdin Expertise
+We've worked on a range of projects, from full implementations to full post-implementation utilisation. Contact us to find out more.
 
 <section class="info_panels" id="info_panels">
   <ul>
