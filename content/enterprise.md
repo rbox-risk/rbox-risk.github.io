@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/img/enterprise_c.jpg
   overlay_filter: rgba(235, 63, 63, 0.5)
 
-excerpt: "Reducing Operational Risks"
+excerpt: "Reducing operational risk"
 title: ""
 ---
 
