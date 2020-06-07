@@ -7,7 +7,7 @@ header:
   actions:
     - label: "Contact us"
       url: "mailto:engage@redboxrisk.com"
-excerpt: "Our experience and credentials"
+excerpt: "Our credentials"
 ---
 
 

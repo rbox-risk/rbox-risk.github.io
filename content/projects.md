@@ -1,10 +1,10 @@
 ---
 layout: splash
+title: 'Projects'
 author_profile: false
 header:
   overlay_color: "#e59594"
-excerpt: "Projects we have worked on"
-title: ""
+excerpt: "Our experience"
 ---
 
 ## Aladdin Projects
