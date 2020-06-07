@@ -2,9 +2,11 @@
 main:
   - title: "About us"
     url: "/about/about"
-  - title: "Insights"
-    -title: "Deep Knowledge"
-     url: "/content/deepknowledge"
+  - title: "Projects"
+    - title: "Deep Knowledge"
+      url: "/content/deepknowledge"
+    - title: "Deep Knowledge"
+      url: "/content/deepknowledge"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
