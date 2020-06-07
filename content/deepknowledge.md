@@ -6,8 +6,10 @@ header:
   overlay_filter: rgba(235, 63, 63, 0.5)
 
 excerpt: "Providing clients with specialist technical skills and deep platform knowledge as standard"
-title: ""
 ---
+<head>
+  <title>Deep Knowledge</title>
+</head>
 
 ## Deep Knowledge
 
