@@ -3,7 +3,7 @@ main:
   - title: "About us"
     url: "/about/about"
   - title: "Projects"
-    url: ""
+    url: "/content/projects"
   - title: "Deep Knowledge"
     url: "/content/deepknowledge"
   - title: "Avoiding Complexity"
