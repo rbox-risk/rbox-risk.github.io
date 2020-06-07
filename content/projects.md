@@ -9,7 +9,9 @@ title: ""
 
 ## Aladdin Projects
 
-We've worked on a range of projects, from full implementations to full post-implementation utilisation. Contact us to find out more.
+We've worked on a range of projects, from full implementations to full post-implementation utilisation. Covering front office to operational tool sets.
+
+While every client is unique, if any of the projects sound relevant contact us to find out more.
 
 <section class="info_panels" id="info_panels">
   <ul>
