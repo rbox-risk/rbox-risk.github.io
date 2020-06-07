@@ -2,11 +2,10 @@
 layout: splash
 author_profile: false
 header:
-  overlay_color: "#ffffff"
-  overlay_filter: rgba(235, 63, 63, 0.5)
+  overlay_color: "#e59594"
   actions:
     - label: "Contact us"
-      url: "mailto:chris@redboxrisk.com"
+      url: "mailto:engage@redboxrisk.com"
 excerpt: "Our experience and credentials"
 title: ""
 ---
